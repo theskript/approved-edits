@@ -1,0 +1,15 @@
+{
+  "name": "approved-edits",
+  "version": "1.0.0",
+  "description": "A small command-line tool where a person approves each text change before it is applied, backed up and checked.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "author": "Ahmed Rahim",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  }
+}
